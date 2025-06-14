@@ -1,0 +1,7 @@
+build:
+    info:
+        description: Config Server for Java Applications default
+        version: 1.0.0
+        name: config-server
+        group: com.hebraheem
+        artifact: config-server
