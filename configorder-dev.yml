@@ -1,0 +1,9 @@
+build:
+    label: 22222
+    version: 2.0.3
+    info:
+        description: Config Server for Java Applications dev
+        version: 1.0.0
+        name: config-server
+        group: com.hebraheem
+        artifact: config-server
