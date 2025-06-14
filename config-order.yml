@@ -1,4 +1,6 @@
 build:
+    label: 133232
+    version: 1.0.2
     info:
         description: Config Server for Java Applications default
         version: 1.0.0
